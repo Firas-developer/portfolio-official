@@ -1,0 +1,62 @@
+[
+  {
+    "name": "AllMart E-Commerce Website",
+    "desc": "Created a E-commerce Website using MERN Stack that function in Full Stack technology ",
+    "image": "allmart",
+    "category": "MERN Stack",
+    "links": {
+      "view": "https://allmart-ecommerce-client.vercel.app/",
+      "code": "https://github.com/Firas-developer/allmart-ecommerce"
+    }
+  },
+  {
+    "name": "Employee Attendance Tracker",
+    "desc": "Created a E-commerce Website using Frontend Tools like HTML, CSS and JS in Responsive manner",
+    "image": "employee",
+    "category": "Frontend",
+    "links": {
+      "view": "https://employee-attendance-tracker-client.vercel.app/",
+      "code": "https://github.com/Firas-developer/employee-attendance-tracker"
+    }
+  },
+  {
+    "name": "TripAdvisor Clone",
+    "desc": "Developed a clone of TripAdviaor Website using HTML and CSS",
+    "image": "tripadvisor",
+    "category": "Frontend",
+    "links": {
+      "view": "https://firas-developer.github.io/Tripadvisor-clone/",
+      "code": "https://github.com/Firas-developer/Tripadvisor-clone"
+    }
+  },
+  {
+    "name": "Nostra E-commerce Website",
+    "desc": "Created a E-commerce Website using Frontend Tools like HTML, CSS and JS in Responsive manner",
+    "image": "nostra",
+    "category": "Frontend",
+    "links": {
+      "view": "https://firas-developer.github.io/Nostra/",
+      "code": "https://github.com/Firas-developer/Nostra"
+    }
+  },
+  {
+    "name": "Udemy Clone",
+    "desc": "Developed and Created a clone of Udemy Website using HTML and CSS",
+    "image": "udemy",
+    "category": "Frontend",
+    "links": {
+      "view": "https://firas-developer.github.io/udemy-clone/",
+      "code": "https://github.com/Firas-developer/udemy-clone"
+    }
+  },
+  {
+    "name": "Greenden Project",
+    "desc": "Developed a Plants Selling Website using Tailwindcss",
+    "image": "greenden",
+    "category": "Tailwindcss",
+    "links": {
+      "view": "https://firas-developer.github.io/Greeden/",
+      "code": "https://github.com/Firas-developer/Greeden"
+    }
+  }
+]
